@@ -1,2 +1,2 @@
 # PythonTutorial
-Create example files with Jupyter notebook.
+Create examples with Jupyter notebook.
