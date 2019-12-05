@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# 亞摩的部落格：https://oceanhover.blogspot.com/2019/11/python3-integerfloat.html
+
 # 【範例1】指派一個整數3至變數num，並利用type()函式確認num的資料型態。
 
 # In[1]:
