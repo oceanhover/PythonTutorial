@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# 亞摩的部落格：https://oceanhover.blogspot.com/2019/11/python3-string.html
+
 # 【範例1】定義字串變數message
 
 # In[9]:
